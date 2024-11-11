@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/Tests.csproj": {}
+    "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/Tests.csproj": {}
   },
   "projects": {
-    "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/Tests.csproj": {
+    "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/Tests.csproj",
+        "projectUniqueName": "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/Tests.csproj",
+        "projectPath": "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/Tests.csproj",
         "packagesPath": "/Users/lucy/.nuget/packages/",
-        "outputPath": "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/obj/",
+        "outputPath": "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucy/.nuget/NuGet/NuGet.Config"

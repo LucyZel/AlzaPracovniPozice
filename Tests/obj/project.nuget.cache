@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ww185pQMbRA1OdCY9c0mdZB/evpUPf/HKjYhg/qYW8Ktuhyj8/ASXZyGR2mtvzLQubEZ4iag3rLGmZlebtDdzQ==",
+  "dgSpecHash": "mx3UstiB653toyxx1lWw0yzf7yNJtEWTvdDqg57ZBfvvqJU4ZoI2wgKJT+0/VLKY082QN3BJvsEzTyTxvm4Btg==",
   "success": true,
-  "projectFilePath": "/Users/lucy/Desktop/AlzaPracovníPozice/Tests/Tests.csproj",
+  "projectFilePath": "/Users/lucy/Desktop/AlzaPracovníPozice/AlzaPracovniPozice/Tests/Tests.csproj",
   "expectedPackageFiles": [
     "/Users/lucy/.nuget/packages/microsoft.codecoverage/17.2.0/microsoft.codecoverage.17.2.0.nupkg.sha512",
     "/Users/lucy/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,19 +1,20 @@
 Výsledek testování pro stránku:
-URL: http://192.168.1.150:3001/api/career/v2/positions/java-developer-
+URL: https://webapi.alza.cz/api/career/v2/positions/java-developer-
 
 • Popis pracovní pozice:
-  o Pracovní pozice má vyplněný popis: ❌
-  o Pracovní pozice je vhodná pro studenty: ❌
+  o Pracovní pozice má vyplněný popis: [čeká na hodnotu]
+  o Pracovní pozice je vhodná pro studenty: [čeká na hodnotu]
 
 • Kde budete pracovat:
-  o Jméno místa výkonu práce: Hall office park
-  o Stát: Česká republika
-  o Město: Praha
-  o Ulice a číslo: U Pergamentky 2
-  o PSČ: 17000
+  o Jméno místa výkonu práce: [čeká na hodnotu]
+  o Stát: [čeká na hodnotu]
+  o Město: [čeká na hodnotu]
+  o Ulice a číslo: [čeká na hodnotu]
+  o PSČ: [čeká na hodnotu]
 
 • Nadřízený (executiveUser):
-  o Nadřízený je vyplněn: ✅
-  o Jméno nadřízeného: Kozák Michal
-  o Nadřízený má fotografii: ✅
-  o Nadřízený má vyplněný popis: ✅
+  o Nadřízený je vyplněn: [čeká na hodnotu]
+  o Jméno nadřízeného: [čeká na hodnotu]
+  o Nadřízený má fotografii: [čeká na hodnotu]
+  o Nadřízený má vyplněný popis: [čeká na hodnotu]
+
